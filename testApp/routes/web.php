@@ -21,4 +21,9 @@ Route::get('/shop', function () {
 });
 Auth::routes();
 
+Route::get('/adminhome', function () {
+    return view('adminhome');
+});
+Auth::routes();
+
 Route::get('/home', 'HomeController@index')->name('home');

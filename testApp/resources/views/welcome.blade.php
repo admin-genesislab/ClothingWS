@@ -79,15 +79,15 @@
 
             <div class="content">
                 <div class="title m-b-md">
-                    Laravel
+                    Web Shop - Admin Portal
                 </div>
 
                 <div class="links">
-                    <a href="https://laravel.com/docs">Documentation</a>
-                    <a href="https://laracasts.com">Laracasts</a>
-                    <a href="https://laravel-news.com">News</a>
-                    <a href="https://forge.laravel.com">Forge</a>
-                    <a href="https://github.com/laravel/laravel">GitHub</a>
+                    <a href="/dashboard">Official Web Shop</a>
+                    <a href="/events">Events</a>
+                    <a href="/shop">Men's Collection</a>
+                    <a href="/shop">Women's Collection</a>
+                    <a href="/shop">Kid's Collection</a>
                 </div>
             </div>
         </div>
